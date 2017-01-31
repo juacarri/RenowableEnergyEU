@@ -1,4 +1,4 @@
-# ValenciaMonuments
-Web designed with Leaflet about the monuments of the city of Valencia
+# Share of Renowable Energy in the European Union
+Web designed with Cesium about the Share of Renowable Energy in the European Union
 
-This is an easy and fast example of the default markerclusters option of Leaflet, including a routing machine from the user's geolocation.
+This is an easy and fast example of how using the extrusion and a JSON file with some statistics from Eurostat could create a nice 4D map.
