@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="description" content="Percentage of renewable energy in the European Union">
+    <meta name="cesium-sandcastle-labels" content="Showcases, Tutorials, DataSources">
+    <title>Renewable energy in the European Union</title>
+	<link rel="shortcut icon" type="image/png" href="static/img/favicon.png"/>
+    <script type="text/javascript" src="static/js/Sandcastle-header.js"></script>
+    <script type="text/javascript" src="static/js/require.js"></script>
+    <script type="text/javascript">
+    require.config({
+        baseUrl : 'static/3rdParty/cesium/Source',
+        waitSeconds : 60
+    });
+    </script>
+</head>
+<body class="sandcastle-loading" data-sandcastle-bucket="bucket-requirejs.html">
+<style>
+    @import url(static/css/bucket.css);
+	#z1{ position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+	z-index:1;}
+</style>
+<div id="z1"> <img src="static/img/ajax-loader.gif" ></div>
+<div id="cesiumContainer" class="fullSize"></div>
+<div id="loadingOverlay"><h1>Loading...</h1></div>
+<div id="toolbar"></div>
+
+<script type="text/javascript" src="static/js/Renewable4D.js" id="cesium_sandcastle_script"></script>
+
+
+</body>
+</html>

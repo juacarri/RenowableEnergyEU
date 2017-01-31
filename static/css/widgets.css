@@ -1,0 +1,15 @@
+@import url(../3rdParty/cesium/Source/Widgets/shared.css);
+@import url(../3rdParty/cesium/Source/Widgets/Animation/Animation.css);
+@import url(../3rdParty/cesium/Source/Widgets/BaseLayerPicker/BaseLayerPicker.css);
+@import url(../3rdParty/cesium/Source/Widgets/CesiumWidget/CesiumWidget.css);
+@import url(../3rdParty/cesium/Source/Widgets/CesiumInspector/CesiumInspector.css);
+@import url(../3rdParty/cesium/Source/Widgets/FullscreenButton/FullscreenButton.css);
+@import url(../3rdParty/cesium/Source/Widgets/VRButton/VRButton.css);
+@import url(../3rdParty/cesium/Source/Widgets/Geocoder/Geocoder.css);
+@import url(../3rdParty/cesium/Source/Widgets/InfoBox/InfoBox.css);
+@import url(../3rdParty/cesium/Source/Widgets/SceneModePicker/SceneModePicker.css);
+@import url(../3rdParty/cesium/Source/Widgets/PerformanceWatchdog/PerformanceWatchdog.css);
+@import url(../3rdParty/cesium/Source/Widgets/NavigationHelpButton/NavigationHelpButton.css);
+@import url(../3rdParty/cesium/Source/Widgets/SelectionIndicator/SelectionIndicator.css);
+@import url(../3rdParty/cesium/Source/Widgets/Timeline/Timeline.css);
+@import url(../3rdParty/cesium/Source/Widgets/Viewer/Viewer.css);
